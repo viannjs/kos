@@ -117,7 +117,7 @@ body {
 /* --- Hero Section --- */
 #hero {
     height: 80vh;
-    background-image: url(/image/main.jpeg);
+    background-image: url('main.jpeg');
     background-size: cover;
     background-position: center;
 }
@@ -851,4 +851,5 @@ footer {
         gap: 30px;
     }
 }
+
 
